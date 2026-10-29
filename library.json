@@ -1,0 +1,34 @@
+[
+    {
+        "Title": "To kill a Mocking Bird",
+        "Author": "Harper lee",
+        "ISBN": "9874563210",
+        "Genre": "Classic",
+        "Publisher": "publications.com",
+        "Year": 1960,
+        "Language": "English",
+        "Copies": 5,
+        "Price": "14.5",
+        "Rating": "4.5",
+        "Description": "awesome book",
+        "Borrowed": false,
+        "Borrower": "",
+        "BorrowDate": ""
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "ISBN": "987456987",
+        "Genre": "Romance,Classic",
+        "Publisher": "Harper collins",
+        "Year": 1813,
+        "Language": "English",
+        "Copies": 4,
+        "Price": "10.5",
+        "Rating": "5",
+        "Description": "",
+        "Borrowed": false,
+        "Borrower": "",
+        "BorrowDate": ""
+    }
+]

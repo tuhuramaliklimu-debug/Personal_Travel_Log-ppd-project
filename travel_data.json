@@ -1,0 +1,26 @@
+[
+    {
+        "place": "paris",
+        "country": "france",
+        "status": "Wished",
+        "date": "",
+        "rating": "4",
+        "comments": "good food"
+    },
+    {
+        "place": "sylhet",
+        "country": "bangladesh",
+        "status": "Traveled",
+        "date": "2022",
+        "rating": "3",
+        "comments": "nature"
+    },
+    {
+        "place": "toronto",
+        "country": "canadaa",
+        "status": "Traveled",
+        "date": "2020",
+        "rating": "4",
+        "comments": "good people"
+    }
+]

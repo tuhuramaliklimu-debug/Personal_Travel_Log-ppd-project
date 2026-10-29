@@ -1,0 +1,44 @@
+[
+    {
+        "Place": "istanbul",
+        "Country": "Turkey",
+        "Type (Visited/Wishlist)": "Wishlist",
+        "Year": "2026",
+        "Rating (1\u20135)": "5",
+        "Priority": "high",
+        "Budget/Cost": "2k",
+        "Companions": "my family and cousins",
+        "Accommodation": "My friends house",
+        "Transport": "plane",
+        "Duration": "7 days",
+        "Comments": "no comments"
+    },
+    {
+        "Place": "new cornish",
+        "Country": "saudi arab",
+        "Type (Visited/Wishlist)": "wishlist",
+        "Year": "2026",
+        "Rating (1\u20135)": "",
+        "Priority": "high",
+        "Budget/Cost": "20000",
+        "Companions": "brothers",
+        "Accommodation": "baba house",
+        "Transport": "car",
+        "Duration": "1 hour",
+        "Comments": "best place for concert "
+    },
+    {
+        "Place": "sylhet",
+        "Country": "bangladesh",
+        "Type (Visited/Wishlist)": "Visited",
+        "Year": "2022",
+        "Rating (1\u20135)": "5",
+        "Priority": "high",
+        "Budget/Cost": "3000",
+        "Companions": "family",
+        "Accommodation": "dadu bari",
+        "Transport": "plane",
+        "Duration": "for ever",
+        "Comments": "not that bad"
+    }
+]
